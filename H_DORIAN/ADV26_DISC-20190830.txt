@@ -1,0 +1,84 @@
+WTNT45 KNHC 302050
+TCDAT5
+
+Hurricane Dorian Discussion Number  26
+NWS National Hurricane Center Miami FL       AL052019
+500 PM EDT Fri Aug 30 2019
+
+High resolution satellite images show that Dorian's cloud pattern
+has become much better organized, with a distinct eye surrounded by
+a ring of very deep convection and fair upper-level outflow.
+Satellite intensity estimates, both objectivs from CIMMS and
+subjective from TAFB and SAB, are in good agreement with the 100-kt
+winds recently measured by a reconnaissance aircraft. This is the
+intensity assigned to Dorian in this advisory.
+
+Since the upper-level environment is already becoming more favorable
+for intensification and Dorian will be over high sea surface
+temperatures, the NHC forecast calls for additional intensification.
+Dorian is expected to be an extremely dangerous major hurricane as
+it moves through the northwestern Bahamas and near the east coast of
+the Florida peninsula in about 2 to 4 days.
+
+The ridge over the western Atlantic appears to be already building
+to the north of Dorian and is beginning to force the hurricane on a
+more west-northwest track or 300 degrees at 9 kt.  The ridge is
+forecast to build even more and steer Dorian on a westward track for
+the next 3 to 4 days. However, the steering currents will then
+weaken, and this should result in a decrease in the hurricane's
+forward speed. Given the collapse of the steering currents, the
+track forecast by the end of the forecast period is highly
+uncertain, and any small deviation in the track could bring the
+core of the powerful hurricane well inland over the Florida, keep
+it near the coast, or offshore. The models have not been very
+consistent from run to run in terms of the timing of the northward
+turn, but there are more models now indicating that the turn could
+occur near the east coast of Florida instead of well inland.  Given
+this latest change, the NHC forecast has been shifted just a little
+to the right at this time, but users should be prepared for
+additional adjustements to the left or right depending on future
+model trends.
+
+Based on the new forecast, a hurricane warning has been issued for
+poertions of the northwest Bahamas. However, given the slower
+forecast speed of Dorian, it is too soon to issue and watches for
+the Florida coast at this time.
+
+Key Messages:
+
+1. Life-threatening storm surge and devastating hurricane-force
+winds are likely in portions of the northwestern Bahamas, where a
+hurricane warning is in effect. Residents should execute their
+hurricane plan and listen to advice given by local emergency
+officials.
+
+2. Life-threatening storm surge and devastating hurricane-force
+winds are likely along portions of the Florida east coast by early
+next week, but since Dorian is forecast to slow down and turn
+northward near the coast, it is too soon to determine when or where
+the highest surge and winds will occur. Residents should have their
+hurricane plan in place, know if they are in a hurricane evacuation
+zone, and listen to advice given by local emergency officials.
+
+3. A prolonged period of storm surge, high winds and rainfall is
+possible in portions of Florida into next week, including the
+possibility of hurricane-force winds over inland portions of the
+Florida peninsula.
+
+4. Heavy rains, capable of life-threatening flash floods, are
+expected over portions of the Bahamas and coastal sections of the
+southeastern United States this weekend through much of next week.
+
+FORECAST POSITIONS AND MAX WINDS
+
+INIT  30/2100Z 25.0N  70.7W  100 KT 115 MPH
+ 12H  31/0600Z 25.6N  72.0W  105 KT 120 MPH
+ 24H  31/1800Z 26.2N  73.8W  110 KT 125 MPH
+ 36H  01/0600Z 26.5N  75.4W  115 KT 130 MPH
+ 48H  01/1800Z 26.8N  76.9W  120 KT 140 MPH
+ 72H  02/1800Z 27.0N  78.8W  120 KT 140 MPH
+ 96H  03/1800Z 27.5N  80.4W  120 KT 140 MPH...NEAR FL EAST COAST
+120H  04/1800Z 30.0N  81.5W   85 KT 100 MPH...INLAND
+
+$$
+Forecaster Avila

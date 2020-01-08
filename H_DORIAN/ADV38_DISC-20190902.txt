@@ -1,0 +1,84 @@
+WTNT45 KNHC 022046
+TCDAT5
+
+Hurricane Dorian Discussion Number  38
+NWS National Hurricane Center Miami FL       AL052019
+500 PM EDT Mon Sep 02 2019
+
+Dorian remains an impressive hurricane in satellite imagery.
+Recent radar and aircraft observations are again showing signs of
+a concentric eyewall structure which might be one of the factors
+that has led to a decrease in the peak winds and a small expansion
+of the wind field.  An Air Force Reserve Hurricane Hunter aircraft
+reported peak flight-level winds of 129 kt, SFMR winds of 121
+kt, and a central pressure that has risen to 940 mb. Based on these
+observations, the initial wind speed has been set at 125 kt.  Some
+additional decrease in wind speed is likely in the short term due
+due to a possible eyewall replacement and upwelling of cooler
+waters caused by the very slow motion of the hurricane. Although
+some additional slow weakening is forecast while the hurricane moves
+northward along the southeastern United States coastline due to
+increasing southwesterly shear, Dorian is forecast to remain a
+powerful hurricane during that time.  The NHC intensity forecast
+forecast is a blend of the latest statistical and and consensus
+model guidance.
+
+Dorian has become nearly stationary this afternoon with the two most
+recent aircraft fixes showing essentially no motion.  A slow
+westward to west-northwestward motion should resume overnight and
+continue into early Tuesday, with the eye and devastating winds only
+slowly pulling away from Grand Bahama Island.  By Tuesday afternoon,
+Dorian should begin its much anticipated northwestward turn as a
+weakness becomes more pronounced in the subtropical ridge.  Although
+the center of Dorian is forecast to move near, but parallel to, the
+Florida east coast, only a small deviation of the track toward the
+west would bring the core of the hurricane onshore.  A broad mid-
+latitude trough should help turn Dorian northeastward by Wednesday
+night, and the track models show the center coming precariously
+close to the southeastern United States coast.  The tracks from the
+1200 UTC runs of the global models have remained fairly stable,
+which has resulted in little overall change to the latest NHC track
+forecast.
+
+Users are reminded that the hurricane is not a point, and that
+life-threatening storm surge and hurricane-force winds extend far
+from the center. Regardless of the exact forecast track, strong
+winds and a life-threatening storm surge are likely along a portion
+of the U.S east coast from Florida through the Carolinas.
+
+Key Messages:
+
+1. Devastating winds and storm surge will continue to affect Grand
+Bahama Island through tonight. Everyone there should remain in
+shelter and not venture into the eye.
+
+2. Life-threatening storm surge and dangerous hurricane-force winds
+are expected along portions of the Florida east coast and the coasts
+of Georgia and South Carolina, regardless of the exact track of
+Dorian's center. Water levels could begin to rise well in advance of
+the arrival of strong winds. Residents in these areas should follow
+advice given by local emergency officials.
+
+3. The risk of life-threatening storm surge and hurricane-force
+winds continues to increase along the coast North Carolina.
+Residents in these areas should follow advice given by local
+emergency officials.
+
+4. Heavy rains, capable of producing life-threatening flash floods,
+are expected over northern portions of the Bahamas and coastal
+sections of the southeast and lower mid-Atlantic regions of the
+United States through Friday.
+
+FORECAST POSITIONS AND MAX WINDS
+
+INIT  02/2100Z 26.8N  78.4W  125 KT 145 MPH
+ 12H  03/0600Z 27.0N  78.7W  115 KT 130 MPH
+ 24H  03/1800Z 27.6N  79.1W  110 KT 125 MPH
+ 36H  04/0600Z 28.7N  79.7W  110 KT 125 MPH
+ 48H  04/1800Z 30.0N  80.1W  105 KT 120 MPH
+ 72H  05/1800Z 32.8N  78.6W   95 KT 110 MPH
+ 96H  06/1800Z 36.6N  73.1W   80 KT  90 MPH
+120H  07/1800Z 43.5N  64.0W   75 KT  85 MPH...POST-TROP/EXTRATROP
+
+$$
+Forecaster Brown

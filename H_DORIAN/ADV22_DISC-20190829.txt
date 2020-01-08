@@ -1,0 +1,95 @@
+WTNT45 KNHC 292047
+TCDAT5
+
+Hurricane Dorian Discussion Number  22
+NWS National Hurricane Center Miami FL       AL052019
+500 PM AST Thu Aug 29 2019
+
+There has been little overall change in the structure of Dorian
+today.  The hurricane has several well-defined bands of convection
+wrapping into the center and a small central dense overcast.  The
+small eye has not been as apparent in geostationary satellite
+imagery this afternoon, but the NOAA Hurricane Hunter aircraft
+reported concentric eyewall diameters of 4 and 22 n mi several
+hours ago.  The latest satellite intensity estimates still support
+an initial intensity of 75 kt, which is also in line with the
+earlier SFMR data from the aircraft.  The next reconnaissance
+aircraft is scheduled to investigate the hurricane this evening.
+
+Dorian is moving northwestward or 325 at 11 kt.  The hurricane
+should continue moving northwestward tonight between an upper-level
+low just to the west of Dorian and a mid-level ridge near Bermuda.
+On Friday, the ridge is forecast to begin building westward to the
+north of the cyclone, and this pattern is expected to cause the
+hurricane to turn west-northwestward.  A west-northwestward to
+westward motion should then continue into the weekend with Dorian
+moving near or over the northwestern Bahamas and toward the Florida
+peninsula.  The guidance envelope has nudged southward this cycle,
+with the ECMWF and HMON along the southern side, and the GFS
+bracketing the northern side.  There has also been an increase in
+along-track spread or speed differences with day 5 positions among
+the dynamical models ranging from near the northwestern Bahamas to
+the northeastern Gulf of Mexico.  This appears to be the result of
+differences in the models' depiction of the strength or lack thereof
+of the western portion of the ridge by day 5.  The new NHC track
+forecast is essentially unchanged through the first 2 to 3 days, but
+has been adjusted southward and somewhat slower than the previous
+advisory at 96 and 120 hours.  Users are reminded to not focus on
+the exact forecast track, as typical forecast errors at days 4 and 5
+are around 155 and 205 miles, respectively.
+
+The new intensity forecast is unchanged from the previous one.
+Dorian will be moving through a favorable environment of low
+vertical wind shear and warm sea surface temperatures.  This should
+allow for at least steady intensification, and Dorian is forecast to
+become major hurricane on Friday.  Dorian is predicted to remain a
+dangerous hurricane throughout the remainder of the forecast period.
+The NHC intensity forecast is again near the upper end of the
+guidance in best agreement with the HWRF and FSSE models.
+
+The National Weather Service has begun 6-hourly upper-air soundings
+across portions of the mid-Atlantic and southeastern United States.
+Six-hourly balloons are also being launched in Bermuda and Nassau in
+the Bahamas.  A NOAA G-IV synoptic surveillance mission is ongoing,
+and the data from this flight will be assimilated into the 0000 UTC
+model cycle.
+
+Key Messages:
+
+1. The risk of life-threatening storm surge and hurricane-force
+winds this weekend continues to increase in the northwestern
+Bahamas, and hurricane watches could be issued there tonight or
+Friday.  Residents should have their hurricane plan in place and
+listen to advice given by local emergency officials.
+
+2. There is an increasing likelihood of life-threatening storm surge
+along portions of the Florida east coast late this weekend or early
+next week, although it is too soon to determine where the highest
+storm surge will occur. Residents should have their hurricane plan
+in place, know if they are in a hurricane evacuation zone, and
+listen to advice given by local emergency officials.
+
+3. The risk of devastating hurricane-force winds along the Florida
+east coast and peninsula late this weekend and early next week
+continues to increase, although it is too soon to determine where
+the strongest winds will occur.
+
+4. Regardless of the exact track of Dorian, heavy rains are expected
+to occur over portions of the Bahamas, Florida, and elsewhere in the
+southeastern United States this weekend and into the middle of next
+week.
+
+
+FORECAST POSITIONS AND MAX WINDS
+
+INIT  29/2100Z 22.5N  67.7W   75 KT  85 MPH
+ 12H  30/0600Z 23.8N  68.7W   90 KT 105 MPH
+ 24H  30/1800Z 25.2N  70.4W  100 KT 115 MPH
+ 36H  31/0600Z 26.0N  72.3W  105 KT 120 MPH
+ 48H  31/1800Z 26.5N  74.2W  110 KT 125 MPH
+ 72H  01/1800Z 27.0N  77.7W  115 KT 130 MPH
+ 96H  02/1800Z 27.5N  80.0W  115 KT 130 MPH
+120H  03/1800Z 28.1N  81.4W   65 KT  75 MPH...INLAND
+
+$$
+Forecaster Brown

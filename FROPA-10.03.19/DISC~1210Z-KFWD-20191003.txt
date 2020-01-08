@@ -1,0 +1,142 @@
+131
+FXUS64 KFWD 031210
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+710 AM CDT Thu Oct 3 2019
+
+
+.AVIATION...
+/12Z TAFs/
+
+A cold front pushing through southern Oklahoma will be the primary
+focus this TAF cycle as it serves as focus for isolated convection
+this afternoon and produces a wind shift at DFW early this
+evening. FROPA at DFW and surrounding airports is still on track
+for around 04/00Z, and will fine tune the timing as the boundary
+draws near. Coverage of thunderstorms will be low enough to keep
+out of TAFs at this time, though VCSH still looks good for late
+afternoon in the Metroplex (late evening for KACT). A second VCSH
+group in the extended DFW TAF has been added for Friday morning;
+this based on multiple hi-res models keying in on moisture from
+an inverted trough over south Texas surging northwest across the
+region. Will also need to watch for post-frontal stratus which may
+create occasional MVFR during the Friday AM hours.
+
+30
+
+&&
+
+
+.SHORT TERM... /Issued 324 AM CDT Thu Oct 3 2019/
+/Today and Tonight/
+
+Morning satellite imagery reveals an upper low moving east across
+the Northern Plains with a dominant ridge over the Deep South. At
+the surface, a cold front is currently creeping south along the
+I-40 corridor of Oklahoma, and should continue to advance
+southward into North Texas later today.
+
+The western flank of the upper ridge may initially act to
+suppress any convection which attempts to develop along the front.
+However, it appears that a weakness in this portion of the ridge
+will develop this afternoon and evening, likely caused by an
+easterly wave which will push inland over South Texas and Mexico
+over the next 24 hours. The end result should be scattered showers
+and a few storms late this afternoon through tonight. Due to the
+subtleness of both the front and the weakness aloft, POPs will
+remain on the conservative side and be limited to the chance or
+slight chance range. Marginal instability and the complete absence
+of deep layer shear should keep any storms well below severe
+thresholds.
+
+A far as temperatures are concerned, most locations should climb
+into the lower and middle 90s again today; the exception being
+the Red River counties where the front will have moved through
+prior to peak heating. The good news is that the front should
+reach the I-20 corridor before stalling late tonight or tomorrow,
+which means that lows in the 60s are likely for areas roughly
+north and west of the DFW Metroplex.
+
+30
+
+&&
+
+.LONG TERM... /Issued 324 AM CDT Thu Oct 3 2019/
+/Friday through Wednesday/
+
+Friday will offer a brief reprieve from the hot weather as the
+first of a couple of cold fronts continues to ooze into the
+region and the strong ridging to the east continues to break down.
+We should start the day off cloudy with temperatures in the
+mid/upper 60s across the north and lower 70s elsewhere with the
+actual front somewhere just south of the Metroplex. We`ll be
+within a region of weak ascent associated with a weak upper trough
+spreading into Texas from the western Gulf of Mexico. Given an
+increase in deep layer moisture, we could see some ongoing showers
+or perhaps a few thunderstorms during the early morning hours.
+High temperatures on Friday are a little bit of a challenge as the
+aggressive 3km NAM keeps highs in the mid 70s to lower 80s across
+the northern half of the region. While this seems plausible, it
+appears very slow to re-establish southerly flow in response to a
+strong trough digging through the western U.S. The coarser global
+models are faster with a retreating front and warmer which makes
+sense in this situation. So for Friday, we`ll keep high temps in
+the upper 80s and lower 90s across most of the area. The only
+exception will be along the Red River where highs may remain in
+the low/mid 80s.
+
+Saturday should be another warm day as the aforementioned trough
+swings through the Plains and southerly flow returns. Highs will
+likely top out in the low/mid 90s areawide with most of the
+precipitation staying well off to the north of our area. This
+trough will drive a stronger front southward though and it should
+be moving through Oklahoma by Saturday evening. This front will
+likely creep across the border and slowly spread south through the
+day Sunday. Sunday should feature cooler temperatures across the
+northern half of the area with our southern counties remaining hot
+with highs in the lower 90s.
+
+A reinforcing shot of significantly cooler and drier air will
+arrive Sunday evening as an upstream trailing shortwave dives
+through the Central Plains. This system will send a stronger surge
+of air southward and will really be the first significant front of
+the season. While the main forcing for ascent from the shortwave
+will primarily be north of our area, strong ascent over the
+frontal surface and ample low level moisture should result in at
+least some scattered showers and perhaps a few thunderstorms
+Sunday evening and night. We`ll have our highest PoPs during this
+time. A marked decrease in moisture will bring a rapid end to any
+precipitation early Monday with highs on Monday expected to top
+out in the upper 70s, which would actually be slightly below
+normal for this time of year.
+
+The pleasant weather will continue through the middle part of the
+week with little or no additional rain chances.
+
+Dunn
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    93  71  88  72  93 /  20  30  20   5   0
+Waco                94  73  93  72  95 /  10  30  20   5   0
+Paris               92  70  85  66  86 /  40  30  20   0   0
+Denton              92  68  86  70  91 /  30  30  20   5   5
+McKinney            92  69  87  69  91 /  30  30  20   5   5
+Dallas              93  72  88  72  93 /  20  30  20   5   0
+Terrell             93  71  89  71  93 /  40  30  20   5   0
+Corsicana           94  73  90  71  92 /  30  30  20   5   5
+Temple              93  73  92  71  94 /  10  20  20  10   0
+Mineral Wells       93  67  88  68  92 /  20  30  20   5   5
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+30/91

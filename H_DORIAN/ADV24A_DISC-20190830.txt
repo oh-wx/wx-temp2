@@ -1,0 +1,95 @@
+WTNT45 KNHC 300854
+TCDAT5
+
+Hurricane Dorian Discussion Number  24
+NWS National Hurricane Center Miami FL       AL052019
+500 AM AST Fri Aug 30 2019
+
+There hasn't been a lot of new data since the Hurricane Hunter
+planes departed Dorian several hours ago.  The convective pattern
+on infrared satellite imagery has been nearly steady state,
+although the latest Dvorak estimates from TAFB and SAB rose to
+T5.0/90 kt.  These estimates, combined with the earlier aircraft
+data, support maintaining an initial intensity of 90 kt.
+
+Dorian's heading is very gradually turning toward the left, with
+the latest estimate northwestward, or 320 degrees at 10 kt.  Dorian
+is now being steered between a mid-tropospheric high centered near
+Bermuda and a mid-/upper-level low located over the Bahamas.  The
+high is expected to expand westward, with a blocking ridge becoming
+established over the western Atlantic during the next several days.
+With the exception of COAMPS-TC and HMON, the other reliable models
+are in excellent agreement through day 3, with Dorian turning
+westward south of the ridge and moving near or over the
+northernmost islands in the Bahamas Sunday and Monday.  After day
+3, steering currents collapse as a break develops in the ridge, and
+Dorian will likely slow down considerably as it approaches the
+Florida peninsula.  There is more spread among the deterministic
+models and their ensemble members during that time, with
+disagreement on exactly when and where Dorian will turn
+northwestward and northward on days 4 and 5.  That being said, the
+tracks of the simple and corrected consensus models on this cycle
+did not warrant much change to the official NHC forecast, with
+perhaps just a slight southward adjustment on days 3 and 4.  The
+biggest concern will be Dorian's slow motion when it is near
+Florida, placing some areas of the state at an increasing risk of a
+prolonged, drawn-out event of strong winds, dangerous storm surge,
+and heavy rainfall.
+
+The upper-level low to the west of Dorian continues to impart some
+southwesterly shear over the hurricane, which has prevented it from
+strengthening rapidly.  However, Dorian is expected to enter a more
+favorable upper-level environment during the next 24 hours, which
+should allow its structure to become more well developed.  Although
+overall the environment ahead of the storm appears conducive for
+strengthening, some models (in particular the ECMWF) suggest that
+some northerly shear could come into play while Dorian moves
+through the northwestern Bahamas, and for that reason the NHC
+official intensity forecast is not quite as bullish as the HCCA,
+Florida State Superensemble, and HWRF models.  Still, Dorian is
+forecast to become a dangerous major hurricane later and maintain
+that status as it heads for the northwestern Bahamas and the
+Florida peninsula.
+
+
+Key Messages:
+
+1. A Hurricane Watch is now in effect for the northwestern Bahamas,
+where the risk of life-threatening storm surge and hurricane-force
+winds this weekend has continued to increase.  Residents should
+begin to execute their hurricane plans and listen to advice given
+by local emergency officials.
+
+2. There is an increasing likelihood of a prolonged period of
+hazardous weather conditions that could last for a couple of days
+in parts of Florida early next week.
+
+3.  The risk of life-threatening storm surge along portions of the
+Florida east coast has increased, although it is too soon to
+determine where the highest storm surge will occur.  The risk of
+devastating hurricane-force winds along the Florida east coast and
+peninsula early next week has also increased, although it is too
+soon to determine where the strongest winds will occur.  Residents
+should have their hurricane plan in place, know if they are in a
+hurricane evacuation zone, and listen to advice given by local
+emergency officials.
+
+4. Regardless of the exact track of Dorian, heavy rains are expected
+to occur over portions of the Bahamas, Florida, and elsewhere in the
+southeastern United States this weekend and into the middle of next
+week.
+
+
+FORECAST POSITIONS AND MAX WINDS
+
+INIT  30/0900Z 23.8N  69.1W   90 KT 105 MPH
+ 12H  30/1800Z 24.8N  70.3W  100 KT 115 MPH
+ 24H  31/0600Z 25.6N  72.0W  105 KT 120 MPH
+ 36H  31/1800Z 26.1N  73.8W  110 KT 125 MPH
+ 48H  01/0600Z 26.4N  75.5W  115 KT 130 MPH
+ 72H  02/0600Z 26.7N  78.3W  120 KT 140 MPH
+ 96H  03/0600Z 26.9N  80.1W  115 KT 130 MPH...INLAND
+120H  04/0600Z 28.1N  81.4W   65 KT  75 MPH...INLAND
+
+$$
+Forecaster Berg

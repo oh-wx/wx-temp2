@@ -1,0 +1,86 @@
+WTNT45 KNHC 291447
+TCDAT5
+
+Hurricane Dorian Discussion Number  21
+NWS National Hurricane Center Miami FL       AL052019
+1100 AM AST Thu Aug 29 2019
+
+The small eye of Dorian has appeared intermittently in infrared
+satellite imagery this morning.  Recent reports from a NOAA P-3
+aircraft indicate that there is now a double eyewall structure,
+with a small inner eye only 5 n mi in diameter and a larger 25-n mi
+diameter outer eyewall. The minimum pressure has fallen to
+around 986 mb.  The concentric eyewall structure is likely why the
+aircraft has not found any stronger winds yet in the storm, despite
+the decrease in central pressure. The initial intensity remains 75
+kt for this advisory.
+
+Aircraft and satellite fixes show that Dorian is moving
+northwestward, or 325 degrees at 11 kt.  Dorian is forecast to
+continue moving northwestward during the next 24-36 hours between an
+upper-level low that will be dropping southwestward across the
+Florida Straits and a mid-level ridge to the northeast of the
+hurricane.  After that time, a ridge is forecast to build to the
+north of Dorian, which should cause the track to bend back toward
+the west-northwest. The track guidance becomes more divergent beyond
+72 hours, primarily due to model differences in the strength of the
+ridge and whether a weakness develops in the ridge late in the
+period. The new NHC track forecast is virtually unchanged from the
+previous advisory, and lies very close to the multi-model consensus.
+It should be noted that the ECMWF, UKMET, and HFIP corrected
+consensus models remain south of the official forecast. The spread
+of the deterministic models and the various ensemble guidance is
+still considerable at days 4 and 5, and it is too soon to specify
+where along the Florida east coast the greatest impacts could
+occur.
+
+Environmental conditions consisting of warm waters and low vertical
+wind shear along the path of the hurricane should allow for at least
+steady intensification during the next 2 to 3 days.  With the small
+inner core and favorable conditions, rapid strengthening also
+remains a possibility, although not likely in the very short term
+given the concentric eyewall structure.  The updated NHC intensity
+forecast calls for Dorian to become a major hurricane on Friday, and
+shows a slightly higher peak intensity than the previous forecast.
+The official forecast is at the upper end of the guidance, in best
+agreement with the HCCA and HWRF models.
+
+Key Messages:
+
+1. The risk of life-threatening storm surge and hurricane-force
+winds this weekend continues to increase in the northwestern
+Bahamas, and hurricane watches could be issued there tonight or
+Friday.  Residents should have their hurricane plan in place and
+listen to advice given by local emergency officials.
+
+2. There is an increasing likelihood of life-threatening storm surge
+along portions of the Florida east coast late this weekend or early
+next week, although it is too soon to determine where the highest
+storm surge will occur. Residents should have their hurricane plan
+in place, know if they are in a hurricane evacuation zone, and
+listen to advice given by local emergency officials.
+
+3. The risk of devastating hurricane-force winds along the Florida
+east coast and peninsula late this weekend and early next week
+continues to increase, although it is too soon to determine where
+the strongest winds will occur.
+
+4. Regardless of the exact track of Dorian, heavy rains are expected
+to occur over portions of the Bahamas, Florida, and elsewhere in the
+southeastern United States this weekend and into the middle of next
+week.
+
+
+FORECAST POSITIONS AND MAX WINDS
+
+INIT  29/1500Z 21.4N  67.2W   75 KT  85 MPH
+ 12H  30/0000Z 22.9N  68.1W   85 KT 100 MPH
+ 24H  30/1200Z 24.5N  69.6W  100 KT 115 MPH
+ 36H  31/0000Z 25.6N  71.4W  105 KT 120 MPH
+ 48H  31/1200Z 26.3N  73.4W  110 KT 125 MPH
+ 72H  01/1200Z 27.0N  76.9W  115 KT 130 MPH
+ 96H  02/1200Z 27.5N  79.8W  115 KT 130 MPH
+120H  03/1200Z 28.1N  81.5W   65 KT  75 MPH...INLAND
+
+$$
+Forecaster Brown

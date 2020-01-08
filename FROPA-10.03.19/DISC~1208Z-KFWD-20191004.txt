@@ -1,0 +1,155 @@
+000
+FXUS64 KFWD 041208
+AFDFWD
+
+Area Forecast Discussion
+National Weather Service Fort Worth TX
+708 AM CDT Fri Oct 4 2019
+
+
+.AVIATION...
+/12z TAFs/
+
+Some mid-level echoes can be seen just east of DFW on area radar
+imagery as of 1130z. These returns are associated with weak
+ascent occurring near a mid-level disturbance on the southern
+periphery of the upper ridge. At this point, it`s unlikely that
+any precipitation is reaching the ground as it falls into a dry
+sub cloud layer, but evaporation may act to increase turbulence as
+this activity continues drifting westward into the D10 airspace.
+Have not included VCSH in the TAFs, although this may need to be
+added in subsequent AMDs.
+
+Otherwise, the main feature of note is a stalled frontal zone
+roughly near the I-20 corridor, with the associated surface
+high resulting in light northerly/northeasterly winds at all
+airports. This will remain the case throughout the day, before
+winds begin slowly returning to the east or southeast later this
+evening and overnight. As the frontal inversion deepens slightly
+this morning, some MVFR cigs could develop after daybreak around
+the DFW area, although the most widespread cigs will remain well
+northwest of the TAF sites. Meanwhile, additional ascent from
+low-level convergence in the vicinity of this front should
+support scattered showers and thunderstorms this afternoon, and
+will upgrade the previous VCSH to VCTS at all airports during a
+brief window late this afternoon. Coverage is expected to be low,
+and the potential for direct impacts from convection at any
+particular airport is slim. Any activity would dissipate with loss
+of heating.
+
+-Stalley
+
+&&
+
+
+.SHORT TERM... /Issued 307 AM CDT Fri Oct 4 2019/
+/Through Tonight/
+
+As of 2am, a weak surface front was draped through the
+northwestern portions of the CWA, roughly from Abilene to Paris.
+The airmass behind this front is slightly cooler and drier, with
+temperatures and dewpoints each 5-10 degrees lower than areas to
+the south. However, the depth of the the post-frontal airmass is
+quite shallow, and southeasterly flow still prevails from about
+925mb upwards. The resultant low-level warm advection and
+convergence coupled with weak dynamic ascent from an easterly wave
+aloft is supporting showers and a couple thunderstorms south of
+I-20 at the current time, which may continue through the remainder
+of the morning.
+
+The frontal zone will become increasingly diffuse by this
+afternoon, and will go unnoticed for many locations today.
+Temperatures will be a few degrees cooler than yesterday for much
+of the area, but this will mainly be due to the increase in cloud
+cover rather than cooler post-frontal air. The exception will be
+across our far northern and western zones where highs may only
+reach the low 80s. Due to the continued presence of the easterly
+wave aloft and broad low-level convergence, convection will be
+possible just about anywhere in the CWA as the boundary layer
+becomes uncapped via diabatic heating this afternoon. Convective
+coverage should be rather limited and sporadic without a well-
+defined surface boundary, and PoPs of 20-30% will suffice.
+Coverage may be greatest east of I-35 where the highest moisture
+content has pooled, with PWs approaching 2 inches. Weak shear
+should limit storm organization and severity, so token mentions of
+gusty wind and lightning hazards will be advertised. Convection
+should reach a maximum in the late afternoon or evening before a
+downward trend at sunset.
+
+Later this evening, surface winds will already begin returning to
+the east and southeast across the entire forecast area as the
+front washes out while retreating northward. This will lead to
+another abnormally warm and muggy night with lows in the upper 60s
+and low 70s.
+
+-Stalley
+
+&&
+
+.LONG TERM... /Issued 307 AM CDT Fri Oct 4 2019/
+/Saturday through Next Week/
+
+A negative-tilt shortwave trough on the front side of a larger
+scale upper trough will cross the Northern Plains on Saturday. An
+attendant surface cyclone will lift northeast across Minnesota,
+with a cold front trailing from the surface low southward then
+southwestward into Oklahoma. The front will likely stall north of
+the Red River, but the current forecast will continue with slight
+chance POPs along our northern row of counties Saturday afternoon
+and evening where isolated convection immediately south of the
+front cannot be ruled out.
+
+As the initial disturbance heads for the Great Lakes, a second
+shortwave on the rear flank of the main trough will dive southeast
+through the Southern Plains on Sunday, sending the front surging
+southward through all of North and Central Texas. This will be the
+first decent front of the season, which at this time looks to
+cross the Red River by Sunday afternoon and clear the southern-
+most counties shortly after midnight Sunday night. The front
+should be accompanied by a broken line of convection, but with the
+trailing shortwave being positively tilted and forcing for ascent
+being minimal, severe storms are unlikely.
+
+The bigger story will be the much-anticipated arrival of seasonable
+weather as temperatures drop to slightly below normal for Monday
+and Tuesday. Locations across the northwest may drop into the 50s
+Sunday night, but the coolest air should occur Monday night with
+widespread 50s expected for low temperatures.
+
+A warm-up will then ensue mid week as return flow develops ahead
+of a deepening low pressure system near the Rockies. Recent
+guidance indicates a fairly potent upper level system as the low
+swings eastward across the Plains during the second half of the
+week. The result in this case would be another strong cold front
+late Thursday or Friday, which may bring an even cooler airmass
+to the region for day 7 and beyond. Much stronger jet dynamics as
+currently advertised would also mean a better chance of strong
+convection, though it is too soon to dig deeply into any
+specifics. Will keep POPs on the conservative side for now and
+monitor over the weekend.
+
+30
+
+&&
+
+.PRELIMINARY POINT TEMPS/POPS...
+Dallas-Ft. Worth    88  74  92  73  90 /  30  20   5  10  10
+Waco                91  67  94  70  94 /  20  20   5   5  10
+Paris               82  66  87  69  85 /  30  20  10  20  30
+Denton              86  69  91  69  89 /  30  20  10  10  20
+McKinney            86  69  90  70  89 /  30  20  10  10  20
+Dallas              88  74  92  74  91 /  30  20   5  10  10
+Terrell             86  69  92  71  91 /  30  20   5  10  10
+Corsicana           90  70  92  71  91 /  30  20   5   5  10
+Temple              90  68  94  70  93 /  20  20   5   5  10
+Mineral Wells       85  66  92  68  89 /  30  20   5  10  20
+
+&&
+
+.FWD WATCHES/WARNINGS/ADVISORIES...
+None.
+&&
+
+$$
+
+26/30

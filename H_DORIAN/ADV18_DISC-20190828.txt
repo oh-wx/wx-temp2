@@ -1,0 +1,66 @@
+WTNT45 KNHC 282044
+TCDAT5
+
+Hurricane Dorian Discussion Number  18
+NWS National Hurricane Center Miami FL       AL052019
+500 PM AST Wed Aug 28 2019
+
+The cloud pattern has become better organized with a hint of an eye
+on high resolution satellite imagery and plenty of convective bands.
+In addition, earlier data from a reconnaissance plane and surface
+observations from St. Thomas as Dorian moved by yield an initial
+intensity of 70 kt.  Now that the hurricane has developed an inner
+core with a 15 to 20 n mi eye, strengthening is more likely. Given
+the favorable environment of warm waters and low shear prevailing in
+the western Atlantic, the NHC forecast calls for a marked
+intensification, and brings Dorian to category 3 intensity in 72
+hours, and keeps it at that intensity until landfall. This
+forecast is very close to the intensity consensus, the HCCA model,
+and the SHIPS guidance.
+
+Satellite and earlier reconnaissance plane fixes indicate that
+Dorian has been moving toward the northwest or 320 degrees at 12
+kt.  The cyclone is heading toward a weakness in the Atlantic
+subtropical ridge, and this northwest motion should continue for the
+next 24 to 48 hours. However, after that time, all the global models
+continue to build a strong ridge over the western Atlantic, and this
+flow pattern should force Dorian to turn more to the west-northwest
+toward Florida. All indications are that by this Labor Day weekend,
+a powerful hurricane will be near or over the Florida peninsula. The
+new NHC track forecast is a little bit to the south of the previous
+one, given that global models have a stronger ridge to the north and
+the track models show more of a westward motion.  Users are reminded
+not to focus on the exact forecast track, as the average 5-day track
+error is around 200 miles.
+
+Key Messages:
+
+1. Dangerous winds will continue in the Virgin Islands, Culebra,
+Vieques, and portions of Puerto Rico during the next few hours.
+Heavy rainfall over portions of Puerto Rico and the Virgin Islands
+could produce flash flooding through Thursday morning.
+
+2. The risk of dangerous storm surge and hurricane-force winds later
+this week and this weekend continues to increase in the central and
+northwestern Bahamas and along the Florida east coast, although it
+is too soon to determine where these hazards will occur. Residents
+in these areas should ensure they have their hurricane plan in place
+and not focus on the exact forecast track of Dorian's center.
+
+3. Heavy rains are expected to occur over portions of the Bahamas,
+Florida, and elsewhere in the southeastern United States later this
+week and into early next week.
+
+FORECAST POSITIONS AND MAX WINDS
+
+INIT  28/2100Z 18.8N  65.5W   70 KT  80 MPH
+ 12H  29/0600Z 20.1N  66.6W   75 KT  85 MPH
+ 24H  29/1800Z 22.0N  68.0W   80 KT  90 MPH
+ 36H  30/0600Z 23.8N  69.3W   85 KT 100 MPH
+ 48H  30/1800Z 25.2N  71.1W   90 KT 105 MPH
+ 72H  31/1800Z 26.8N  75.0W  100 KT 115 MPH
+ 96H  01/1800Z 27.7N  79.0W  100 KT 115 MPH
+120H  02/1800Z 28.2N  81.5W   85 KT 100 MPH...INLAND
+
+$$
+Forecaster Avila

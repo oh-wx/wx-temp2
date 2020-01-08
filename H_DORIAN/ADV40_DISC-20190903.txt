@@ -1,0 +1,78 @@
+WTNT45 KNHC 030854
+TCDAT5
+
+Hurricane Dorian Discussion Number  40
+NWS National Hurricane Center Miami FL       AL052019
+500 AM EDT Tue Sep 03 2019
+
+Dorian continues to pound Grand Bahama Island early this morning
+while moving little.  The eyewall has become a little less
+defined over the past few hours on radar.  On infrared satellite
+images, the eye remains fairly well defined, but the surrounding
+deep convection is somewhat fragmented.  Upper-level outflow is a
+bit restricted over the western semicircle of the circulation.  The
+initial intensity is held at 105 kt, which is a blend of subjective
+Dvorak data-T numbers from TAFB and SAB.  Dorian is expected to more
+or less maintain its intensity for about 36 hours. After that time
+period, increasing vertical shear should cause gradual weakening.
+However, the system is likely to remain a major hurricane for the
+next few days.  The official forecast is closest to the latest LGEM
+guidance.
+
+Dorian has been nearly stationary for the past 18 hours, as
+steering currents in its vicinity have collapsed.  The global
+models indicate that a weakness in the subtropical ridge will
+develop in response to a trough that will amplify along the east
+coast of the United States within the next day or so.  Dorian
+should respond to these changes by beginning to move
+north-northwestward toward the weakness in the ridge a little later
+today.  The system should turn northward with a gradual increase in
+forward speed as it moves through the weakness in around 48 hours.
+Later in the period, the cyclone should accelerate northeastward on
+the southern side of the trough.  The official track forecast is
+similar to the previous one, and is fairly close to the model
+consensus.
+
+Although the official forecast does not show Dorian making landfall
+along the Florida east coast, users are reminded not to forecast on
+the exact forecast track.  A relatively small deviation to the
+left of this track could bring the core of the hurricane near or
+over the coastline.
+
+
+Key Messages:
+
+1. Devastating winds and storm surge will continue to affect Grand
+Bahama Island for several more hours.  Everyone there should remain
+in shelter.
+
+2. Life-threatening storm surge and dangerous hurricane-force winds
+are expected along portions of the Florida east coast and the coasts
+of Georgia and South Carolina, regardless of the exact track of
+Dorian's center.  Water levels could begin to rise well in advance
+of the arrival of strong winds. Residents in these areas should
+follow advice given by local emergency officials.
+
+3. The risk of life-threatening storm surge and hurricane-force
+winds continues to increase along the coast of North Carolina.
+Residents in these areas should follow advice given by local
+emergency officials.
+
+4. The flash flood threat will increase today and tonight along the
+Florida peninsula, then spread up the southeast and mid-Atlantic
+coast during the middle and latter part of the week.
+
+
+FORECAST POSITIONS AND MAX WINDS
+
+INIT  03/0900Z 26.9N  78.4W  105 KT 120 MPH
+ 12H  03/1800Z 27.5N  78.8W  105 KT 120 MPH
+ 24H  04/0600Z 28.5N  79.3W  105 KT 120 MPH
+ 36H  04/1800Z 29.9N  79.7W  105 KT 120 MPH
+ 48H  05/0600Z 31.4N  79.4W  100 KT 115 MPH
+ 72H  06/0600Z 34.3N  76.6W   85 KT 100 MPH
+ 96H  07/0600Z 39.0N  69.3W   75 KT  85 MPH
+120H  08/0600Z 46.5N  59.5W   70 KT  80 MPH...POST-TROP/EXTRATROP
+
+$$
+Forecaster Pasch
